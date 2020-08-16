@@ -1,0 +1,18 @@
+[submodule "AMDuran2017.github.io"]
+	path = AMDuran2017.github.io
+	url = https://github.com/AMDuran2017/AMDuran2017.github.io.git
+[submodule "carmen-araujo.github.io"]
+	path = carmen-araujo.github.io
+	url = https://github.com/carmen-araujo/carmen-araujo.github.io.git
+[submodule "esthierickson.github.io"]
+	path = esthierickson.github.io
+	url = https://github.com/esthierickson/esthierickson.github.io.git
+[submodule "kmwright1.github.io"]
+	path = kmwright1.github.io
+	url = https://github.com/kmwright1/kmwright1.github.io.git
+[submodule "niablake.github.io"]
+	path = niablake.github.io
+	url = https://github.com/niablake/niablake.github.io.git
+[submodule "sophievgenderen.github.io"]
+	path = sophievgenderen.github.io
+	url = https://github.com/sophievgenderen/sophievgenderen.github.io.git
