@@ -16,3 +16,6 @@
 [submodule "sophievgenderen.github.io"]
 	path = sophievgenderen.github.io
 	url = https://github.com/sophievgenderen/sophievgenderen.github.io.git
+[submodule "madisonjordan.github.io"]
+	path = madisonjordan.github.io
+	url = https://github.com/madisonjordan/dreu2020_madisonjordan.git
