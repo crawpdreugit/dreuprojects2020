@@ -19,3 +19,6 @@
 [submodule "madisonjordan.github.io"]
 	path = madisonjordan.github.io
 	url = https://github.com/madisonjordan/dreu2020_madisonjordan.git
+[submodule "briannawimer.github.io"]
+	path = briannawimer.github.io
+	url = https://github.com/briannawimer/briannawimer.github.io
